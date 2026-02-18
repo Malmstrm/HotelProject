@@ -1,4 +1,6 @@
 ﻿## Description
+ What has been done?
+- 
 ## Ticket Reference
 - Ticket ID: [HOTEL-XXX]
 
@@ -26,5 +28,4 @@
 - [ ] **Manual Test:** Have the changes been manually tested or verified in the code?
 
 ### 📝 Documentation & Git
-- [ ] **Swedish Explanation:** Is the description above written in **Swedish**?
 - [ ] **Git Flow:** Have I merged the latest `develop` into this branch?
